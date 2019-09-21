@@ -1034,7 +1034,7 @@
 	},
 	{
 		"abr": "foxfur",
-		"price": -10,
+		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Fox"
 	},
@@ -1448,7 +1448,7 @@
 	},
 	{
 		"abr": "kibble",
-		"price": 2,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Kibble"
 	},
@@ -2954,7 +2954,7 @@
 	},
 	{
 		"abr": "80x256mmfuelcell(thermobaric)",
-		"price": -10,
+		"price": 48,
 		"category": "80x256mm Fuel Cell",
 		"defname": "Ammo_80x256mmFuel_Thermobaric"
 	},
@@ -5324,7 +5324,7 @@
 	},
 	{
 		"abr": "extractedbraindata",
-		"price": 158,
+		"price": 58,
 		"category": "Manufactured",
 		"defname": "WTH_ExtractedBrainData"
 	},
@@ -5504,7 +5504,7 @@
 	},
 	{
 		"abr": "fissionmouse",
-		"price": 408,
+		"price": 208,
 		"category": "Animal",
 		"defname": "AA_FissionMouse"
 	},
@@ -5522,7 +5522,7 @@
 	},
 	{
 		"abr": "fissionmouse,thirdgeneration",
-		"price": 208,
+		"price": 408,
 		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
 	},
@@ -5858,7 +5858,7 @@
 	},
 	{
 		"abr": "hivedata",
-		"price": 158,
+		"price": 58,
 		"category": "Manufactured",
 		"defname": "WTH_MechanoidData"
 	},
@@ -6314,7 +6314,7 @@
 	},
 	{
 		"abr": "jamonserrano",
-		"price": 15,
+		"price": 92,
 		"category": "Foods",
 		"defname": "GR_JamonSerrano"
 	},
@@ -7478,7 +7478,7 @@
 	},
 	{
 		"abr": "paragonboartusks",
-		"price": 133,
+		"price": 83,
 		"category": "Raw resources",
 		"defname": "GR_AlphaBoarTusks"
 	},
@@ -8612,7 +8612,7 @@
 	},
 	{
 		"abr": "spidersnakesilk",
-		"price": -10,
+		"price": 13,
 		"category": "Textiles",
 		"defname": "GR_SpidersnakeSilk"
 	},
@@ -9320,7 +9320,7 @@
 	},
 	{
 		"abr": "weaponrack",
-		"price": -10,
+		"price": 137,
 		"category": "Furniture",
 		"defname": "Shelf_WeaponRack"
 	},
@@ -9506,7 +9506,7 @@
 	},
 	{
 		"abr": "wolfchickenfeathers",
-		"price": -10,
+		"price": 83,
 		"category": "Raw resources",
 		"defname": "GR_WolfchickenFeathers"
 	},
@@ -9608,9 +9608,99 @@
 	},
 	{
 		"abr": "zip.22",
-		"price": -10,
+		"price": 103,
 		"category": "Ranged weapons",
 		"defname": "CEC_Zipper"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
 	},
 	{
 		"abr": "lancer",
@@ -9629,7 +9719,7 @@
 		"price": 2900,
 		"category": "Animal",
 		"defname": "Mech_Centipede"
-	},
+	}
 	],
 	"total": 1697
 }
